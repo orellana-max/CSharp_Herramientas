@@ -1,0 +1,7 @@
+C:\Users\maxi\source\repos\Herramientas\Iterador\bin\Debug\Iterador.exe.config
+C:\Users\maxi\source\repos\Herramientas\Iterador\bin\Debug\Iterador.exe
+C:\Users\maxi\source\repos\Herramientas\Iterador\bin\Debug\Iterador.pdb
+C:\Users\maxi\source\repos\Herramientas\Iterador\obj\Debug\Iterador.csprojAssemblyReference.cache
+C:\Users\maxi\source\repos\Herramientas\Iterador\obj\Debug\Iterador.csproj.CoreCompileInputs.cache
+C:\Users\maxi\source\repos\Herramientas\Iterador\obj\Debug\Iterador.exe
+C:\Users\maxi\source\repos\Herramientas\Iterador\obj\Debug\Iterador.pdb

@@ -1,0 +1,7 @@
+C:\Users\maxi\source\repos\Herramientas\TAD_Cola_Pila\bin\Debug\TAD_Cola_Pila.exe.config
+C:\Users\maxi\source\repos\Herramientas\TAD_Cola_Pila\bin\Debug\TAD_Cola_Pila.exe
+C:\Users\maxi\source\repos\Herramientas\TAD_Cola_Pila\bin\Debug\TAD_Cola_Pila.pdb
+C:\Users\maxi\source\repos\Herramientas\TAD_Cola_Pila\obj\Debug\TAD_Cola_Pila.csprojAssemblyReference.cache
+C:\Users\maxi\source\repos\Herramientas\TAD_Cola_Pila\obj\Debug\TAD_Cola_Pila.csproj.CoreCompileInputs.cache
+C:\Users\maxi\source\repos\Herramientas\TAD_Cola_Pila\obj\Debug\TAD_Cola_Pila.exe
+C:\Users\maxi\source\repos\Herramientas\TAD_Cola_Pila\obj\Debug\TAD_Cola_Pila.pdb

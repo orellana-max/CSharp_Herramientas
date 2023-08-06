@@ -1,0 +1,7 @@
+C:\Users\maxi\source\repos\Herramientas\P7E11\bin\Debug\P7E11.exe.config
+C:\Users\maxi\source\repos\Herramientas\P7E11\bin\Debug\P7E11.exe
+C:\Users\maxi\source\repos\Herramientas\P7E11\bin\Debug\P7E11.pdb
+C:\Users\maxi\source\repos\Herramientas\P7E11\obj\Debug\P7E11.csprojAssemblyReference.cache
+C:\Users\maxi\source\repos\Herramientas\P7E11\obj\Debug\P7E11.csproj.CoreCompileInputs.cache
+C:\Users\maxi\source\repos\Herramientas\P7E11\obj\Debug\P7E11.exe
+C:\Users\maxi\source\repos\Herramientas\P7E11\obj\Debug\P7E11.pdb

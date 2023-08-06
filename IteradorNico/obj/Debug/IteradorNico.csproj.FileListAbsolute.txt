@@ -1,0 +1,7 @@
+C:\Users\maxi\source\repos\Herramientas\IteradorNico\obj\Debug\IteradorNico.csprojAssemblyReference.cache
+C:\Users\maxi\source\repos\Herramientas\IteradorNico\obj\Debug\IteradorNico.csproj.CoreCompileInputs.cache
+C:\Users\maxi\source\repos\Herramientas\IteradorNico\bin\Debug\IteradorNico.exe.config
+C:\Users\maxi\source\repos\Herramientas\IteradorNico\bin\Debug\IteradorNico.exe
+C:\Users\maxi\source\repos\Herramientas\IteradorNico\bin\Debug\IteradorNico.pdb
+C:\Users\maxi\source\repos\Herramientas\IteradorNico\obj\Debug\IteradorNico.exe
+C:\Users\maxi\source\repos\Herramientas\IteradorNico\obj\Debug\IteradorNico.pdb
